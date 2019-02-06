@@ -1,0 +1,76 @@
+baseURL = "https://tmastrom.github.io/"
+languageCode = "en-us"
+title = "Thomas Mastromonaco"
+theme = "coder"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Thomas Mastromonaco"
+    info = "Studying computer engineering at the University of Victoria"
+    description = "Thomas's personal website"
+    keywords = "blog,developer,personal"
+    avatarurl = "images/headshot-small.jpg"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "I strive to create things that are useful and positive"
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    inverted = true
+
+    math = true
+    custom_css = []
+
+# Social links
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/tmastrom/"
+[[params.social]]
+    name = "Linkedin"
+    icon = "fab fa-linkedin"
+    weight = 2
+    url = "https://www.linkedin.com/in/tmastro/"
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram"
+    weight = 3
+    url = ""
+ [[params.social]]
+    name = "Email"
+    icon = "far fa-envelope"
+    weight = 4
+    url = "mailto:thomas.mastromonaco@gmail.com"
+
+# Menu links
+[[menu.main]]
+    name = "Projects"
+    weight = 2
+    url  = "/projects/"
+[[menu.main]]
+    name = "Resume"
+    weight = 3
+    url = "/resume/"
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
+[[menu.main]]
+    name = "Volunteering"
+    weight = 4
+    url = "/volunteering/"
