@@ -2,6 +2,7 @@ baseURL = "https://tmastrom.github.io/"
 languageCode = "en-us"
 title = "Thomas Mastromonaco"
 theme = "coder"
+publishDir = "tmastrom.github.io"
 
 paginate = 20
 canonifyurls = true
@@ -9,8 +10,6 @@ canonifyurls = true
 pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
-disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Thomas Mastromonaco"
