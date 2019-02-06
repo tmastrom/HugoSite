@@ -49,7 +49,7 @@ pygmentscodefencesguesssyntax = true
     name = "Instagram"
     icon = "fab fa-instagram"
     weight = 3
-    url = ""
+    url = "https://www.instagram.com/tom_mastromonaco/"
  [[params.social]]
     name = "Email"
     icon = "far fa-envelope"
