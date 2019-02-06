@@ -1,6 +1,6 @@
 baseURL = "https://tommastromona.co/"
 languageCode = "en-us"
-title = "Thomas Mastromonaco"
+title = "Home"
 theme = "coder"
 publishDir = "tmastrom.github.io"
 
@@ -21,10 +21,10 @@ pygmentscodefencesguesssyntax = true
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "I strive to create things that are useful and positive"
+    footercontent = "I want to create helpful technology"
 
-    hidecredits = false
-    hidecopyright = false
+    hidecredits = true
+    hidecopyright = true
 
     rtl = false
 
