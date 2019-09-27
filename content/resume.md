@@ -18,6 +18,11 @@ Studying computer engineering with a biomedical engineering minor. Currently spe
 * Worked with the test engineering team to automate hardware debugging using **computer vision**. 
 * Built tools using **Python** and interfaced with hardware using TCP/IP
 
+Check out the article I wrote for the World Association of Cooperative Education (WACE) Best of Co-op Guide [here](https://www.waceinc.org/eGuides/eGuide2020/BestofCoop2020_EGuide.html)!
+{{< figure src="/images/resume/coOpFeature.PNG" caption="">}}
+
+
+
 ### Junior Electrical Designer; [Smith + Andersen](http://smithandandersen.com/)
 **Burnaby, BC** - _September 2016 - August 2017_
 
