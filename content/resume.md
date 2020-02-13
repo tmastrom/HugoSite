@@ -12,6 +12,21 @@ Studying computer engineering with a biomedical engineering minor. Currently spe
 
 # Experience
 --- 
+### Wearable Device Developer; J. Giles Ortho Tech & Biomech Lab
+**Victoria, BC** - _Spring 2020_
+
+* Wrote firmware in C for an ARM target to provide Bluetooth Low Energy (BLE) communication
+* Created a simple and UI for clinicians and patients to record and view their data
+* Authenticated users and stored data using Firebase
+
+### Software Engineering Intern; [eSight Eyewear](https://esighteyewear.com/)
+**Ottawa, ON** - _Fall 2019_
+
+* Developed **Android** applications and services in Java to run on the eSight glasses hardware
+* Wrote applications using MVVM design pattern to create modular, testable and maintainable code
+* Gained development experience as part of an Agaile team; participating in daily stand-ups and weekly sprints
+
+
 ### Test Engineering Intern; [HGST (A Western Digital Company)](https://www.westerndigital.com/) 
 **Prachin Buri, Thailand** - _Summer 2018_
 
