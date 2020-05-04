@@ -5,19 +5,23 @@ slug = "resume"
 
 # Education 
 ---
-### Bachelors of Engineering; The University of Victoria
+### Bachelors of Computer Engineering; The University of Victoria
 **Victoria, BC** - _2014-Present_
 
-Studying computer engineering with a biomedical engineering minor. Currently specializing in digital signal processing.
+Studying computer engineering with a biomedical engineering minor
 
 # Experience
 --- 
-### Wearable Device Developer; J. Giles Ortho Tech & Biomech Lab
+### Wearable Device Developer; [J. Giles Ortho Tech & Biomech Lab](https://gileslab.wixsite.com/uvicbiomech)
 **Victoria, BC** - _Spring 2020_
 
-* Wrote firmware in C for an ARM target to provide Bluetooth Low Energy (BLE) communication
-* Created a simple and UI for clinicians and patients to record and view their data
-* Authenticated users and stored data using Firebase
+* Developed an **Android** application in Java to receive and display wearable sensor data using Bluetooth
+* Utilized an [MVVM design pattern](https://developer.android.com/jetpack/docs/guide) and [Viewbinding](https://developer.android.com/topic/libraries/view-binding) to build a responsive and robust application
+* Followed Material Design practices to create the UI/UX
+* Authenticated users using Google Firebase 
+* Created a NoSQL database using Firebase Firestore to read and write user data
+* Wrote firmware in C for an ARM target to communicate with the Android app using the Bluetooth Low Energy (BLE) protocol
+
 
 ### Software Engineering Intern; [eSight Eyewear](https://esighteyewear.com/)
 **Ottawa, ON** - _Fall 2019_
@@ -33,7 +37,7 @@ Studying computer engineering with a biomedical engineering minor. Currently spe
 * Worked with the test engineering team to automate hardware debugging using **computer vision**. 
 * Built tools using **Python** and interfaced with hardware using TCP/IP
 
-Check out the article I wrote for the World Association of Cooperative Education (WACE) Best of Co-op Guide [here](https://www.waceinc.org/eGuides/eGuide2020/BestofCoop2020_EGuide.html)!
+Check out the article I wrote for the World Association of Cooperative Education (WACE) Best of Co-op 2019-2020 Guide [here](https://www.waceinc.org/)!
 {{< figure src="/images/resume/coOpFeature.PNG" caption="">}}
 
 
