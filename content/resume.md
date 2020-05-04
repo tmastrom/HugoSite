@@ -19,7 +19,7 @@ Studying computer engineering with a biomedical engineering minor
 * Utilized an [MVVM design pattern](https://developer.android.com/jetpack/docs/guide) and [Viewbinding](https://developer.android.com/topic/libraries/view-binding) to build a responsive and robust application
 * Followed Material Design practices to create the UI/UX
 * Authenticated users using Google Firebase 
-* Created a NoSQL database using Firebase Firestore to read and write user data
+* Created a NoSQL database using Firebase Firestore to store app data
 * Wrote firmware in C for an ARM target to communicate with the Android app using the Bluetooth Low Energy (BLE) protocol
 
 
